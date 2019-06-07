@@ -13,7 +13,6 @@
       "properties": {
         "id": "1-01",
         "color": "red",
-        "fill-outline-color": "black",
         "height": 3,
         "base_height": 0
       },
