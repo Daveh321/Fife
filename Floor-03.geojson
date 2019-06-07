@@ -13,7 +13,7 @@
       "properties": {
         "id": "3-1",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -105,7 +105,7 @@
       "properties": {
         "id": "3-2",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -265,7 +265,7 @@
       "properties": {
         "id": "3-3",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -321,7 +321,7 @@
       "properties": {
         "id": "3-4",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -421,7 +421,7 @@
       "properties": {
         "id": "3-5",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -469,7 +469,7 @@
       "properties": {
         "id": "3-6",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -529,7 +529,7 @@
       "properties": {
         "id": "3-7",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -569,7 +569,7 @@
       "properties": {
         "id": "3-8",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -633,7 +633,7 @@
       "properties": {
         "id": "3-9",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -681,7 +681,7 @@
       "properties": {
         "id": "3-10",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -729,7 +729,7 @@
       "properties": {
         "id": "3-11",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -917,7 +917,7 @@
       "properties": {
         "id": "3-12",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -965,7 +965,7 @@
       "properties": {
         "id": "3-13",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1005,7 +1005,7 @@
       "properties": {
         "id": "3-14",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1061,7 +1061,7 @@
       "properties": {
         "id": "3-15",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1105,7 +1105,7 @@
       "properties": {
         "id": "3-16",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1161,7 +1161,7 @@
       "properties": {
         "id": "3-17",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1201,7 +1201,7 @@
       "properties": {
         "id": "3-18",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1261,7 +1261,7 @@
       "properties": {
         "id": "3-19",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1309,7 +1309,7 @@
       "properties": {
         "id": "3-20",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1373,7 +1373,7 @@
       "properties": {
         "id": "3-21",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1429,7 +1429,7 @@
       "properties": {
         "id": "3-22",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1525,7 +1525,7 @@
       "properties": {
         "id": "3-23",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1581,7 +1581,7 @@
       "properties": {
         "id": "3-24",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1629,7 +1629,7 @@
       "properties": {
         "id": "3-25",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1669,7 +1669,7 @@
       "properties": {
         "id": "3-26",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1729,7 +1729,7 @@
       "properties": {
         "id": "3-27",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1777,7 +1777,7 @@
       "properties": {
         "id": "3-28",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1829,7 +1829,7 @@
       "properties": {
         "id": "3-29",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1885,7 +1885,7 @@
       "properties": {
         "id": "3-30",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1925,7 +1925,7 @@
       "properties": {
         "id": "3-31",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -1981,7 +1981,7 @@
       "properties": {
         "id": "3-32",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2021,7 +2021,7 @@
       "properties": {
         "id": "3-33",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2165,7 +2165,7 @@
       "properties": {
         "id": "3-34",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2209,7 +2209,7 @@
       "properties": {
         "id": "3-35",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2249,7 +2249,7 @@
       "properties": {
         "id": "3-36",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2309,7 +2309,7 @@
       "properties": {
         "id": "3-37",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2373,7 +2373,7 @@
       "properties": {
         "id": "3-38",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2425,7 +2425,7 @@
       "properties": {
         "id": "3-39",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2477,7 +2477,7 @@
       "properties": {
         "id": "3-40",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2533,7 +2533,7 @@
       "properties": {
         "id": "3-41",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2573,7 +2573,7 @@
       "properties": {
         "id": "3-42",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2625,7 +2625,7 @@
       "properties": {
         "id": "3-43",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2681,7 +2681,7 @@
       "properties": {
         "id": "3-44",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2729,7 +2729,7 @@
       "properties": {
         "id": "3-45",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2793,7 +2793,7 @@
       "properties": {
         "id": "3-46",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2853,7 +2853,7 @@
       "properties": {
         "id": "3-47",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2905,7 +2905,7 @@
       "properties": {
         "id": "3-48",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -2949,7 +2949,7 @@
       "properties": {
         "id": "3-49",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3033,7 +3033,7 @@
       "properties": {
         "id": "3-50",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3169,7 +3169,7 @@
       "properties": {
         "id": "3-51",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3233,7 +3233,7 @@
       "properties": {
         "id": "3-52",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3273,7 +3273,7 @@
       "properties": {
         "id": "3-53",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3321,7 +3321,7 @@
       "properties": {
         "id": "3-54",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3369,7 +3369,7 @@
       "properties": {
         "id": "3-55",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3417,7 +3417,7 @@
       "properties": {
         "id": "3-56",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3461,7 +3461,7 @@
       "properties": {
         "id": "3-57",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3521,7 +3521,7 @@
       "properties": {
         "id": "3-58",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3569,7 +3569,7 @@
       "properties": {
         "id": "3-59",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3625,7 +3625,7 @@
       "properties": {
         "id": "3-60",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3673,7 +3673,7 @@
       "properties": {
         "id": "3-61",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3729,7 +3729,7 @@
       "properties": {
         "id": "3-62",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3817,7 +3817,7 @@
       "properties": {
         "id": "3-63",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3857,7 +3857,7 @@
       "properties": {
         "id": "3-64",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3905,7 +3905,7 @@
       "properties": {
         "id": "3-65",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3953,7 +3953,7 @@
       "properties": {
         "id": "3-66",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -3993,7 +3993,7 @@
       "properties": {
         "id": "3-67",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4053,7 +4053,7 @@
       "properties": {
         "id": "3-68",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4109,7 +4109,7 @@
       "properties": {
         "id": "3-69",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4169,7 +4169,7 @@
       "properties": {
         "id": "3-70",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4245,7 +4245,7 @@
       "properties": {
         "id": "3-71",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4297,7 +4297,7 @@
       "properties": {
         "id": "3-72",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4341,7 +4341,7 @@
       "properties": {
         "id": "3-73",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4393,7 +4393,7 @@
       "properties": {
         "id": "3-74",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4445,7 +4445,7 @@
       "properties": {
         "id": "3-75",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4497,7 +4497,7 @@
       "properties": {
         "id": "3-76",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4541,7 +4541,7 @@
       "properties": {
         "id": "3-77",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4593,7 +4593,7 @@
       "properties": {
         "id": "3-78",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4641,7 +4641,7 @@
       "properties": {
         "id": "3-79",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4689,7 +4689,7 @@
       "properties": {
         "id": "3-80",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4745,7 +4745,7 @@
       "properties": {
         "id": "3-81",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4789,7 +4789,7 @@
       "properties": {
         "id": "3-82",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4857,7 +4857,7 @@
       "properties": {
         "id": "3-83",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4901,7 +4901,7 @@
       "properties": {
         "id": "3-84",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -4957,7 +4957,7 @@
       "properties": {
         "id": "3-85",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5001,7 +5001,7 @@
       "properties": {
         "id": "3-86",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5061,7 +5061,7 @@
       "properties": {
         "id": "3-87",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5117,7 +5117,7 @@
       "properties": {
         "id": "3-88",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5173,7 +5173,7 @@
       "properties": {
         "id": "3-89",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5213,7 +5213,7 @@
       "properties": {
         "id": "3-90",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5301,7 +5301,7 @@
       "properties": {
         "id": "3-91",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5349,7 +5349,7 @@
       "properties": {
         "id": "3-92",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5397,7 +5397,7 @@
       "properties": {
         "id": "3-93",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5469,7 +5469,7 @@
       "properties": {
         "id": "3-94",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5525,7 +5525,7 @@
       "properties": {
         "id": "3-95",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5573,7 +5573,7 @@
       "properties": {
         "id": "3-96",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5613,7 +5613,7 @@
       "properties": {
         "id": "3-97",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5653,7 +5653,7 @@
       "properties": {
         "id": "3-98",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5693,7 +5693,7 @@
       "properties": {
         "id": "3-99",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5733,7 +5733,7 @@
       "properties": {
         "id": "3-100",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5789,7 +5789,7 @@
       "properties": {
         "id": "3-101",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5829,7 +5829,7 @@
       "properties": {
         "id": "3-102",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5869,7 +5869,7 @@
       "properties": {
         "id": "3-103",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5917,7 +5917,7 @@
       "properties": {
         "id": "3-104",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -5965,7 +5965,7 @@
       "properties": {
         "id": "3-105",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6021,7 +6021,7 @@
       "properties": {
         "id": "3-106",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6061,7 +6061,7 @@
       "properties": {
         "id": "3-107",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6117,7 +6117,7 @@
       "properties": {
         "id": "3-108",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6181,7 +6181,7 @@
       "properties": {
         "id": "3-109",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6221,7 +6221,7 @@
       "properties": {
         "id": "3-110",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6277,7 +6277,7 @@
       "properties": {
         "id": "3-111",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6453,7 +6453,7 @@
       "properties": {
         "id": "3-112",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6509,7 +6509,7 @@
       "properties": {
         "id": "3-113",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6649,7 +6649,7 @@
       "properties": {
         "id": "3-114",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6713,7 +6713,7 @@
       "properties": {
         "id": "3-115",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6769,7 +6769,7 @@
       "properties": {
         "id": "3-116",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6809,7 +6809,7 @@
       "properties": {
         "id": "3-117",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6869,7 +6869,7 @@
       "properties": {
         "id": "3-118",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6913,7 +6913,7 @@
       "properties": {
         "id": "3-119",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6953,7 +6953,7 @@
       "properties": {
         "id": "3-120",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -6993,7 +6993,7 @@
       "properties": {
         "id": "3-121",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7041,7 +7041,7 @@
       "properties": {
         "id": "3-122",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7089,7 +7089,7 @@
       "properties": {
         "id": "3-123",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7137,7 +7137,7 @@
       "properties": {
         "id": "3-124",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7181,7 +7181,7 @@
       "properties": {
         "id": "3-125",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7229,7 +7229,7 @@
       "properties": {
         "id": "3-126",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7269,7 +7269,7 @@
       "properties": {
         "id": "3-127",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7317,7 +7317,7 @@
       "properties": {
         "id": "3-128",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7357,7 +7357,7 @@
       "properties": {
         "id": "3-129",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7413,7 +7413,7 @@
       "properties": {
         "id": "3-130",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7485,7 +7485,7 @@
       "properties": {
         "id": "3-131",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7549,7 +7549,7 @@
       "properties": {
         "id": "3-132",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7597,7 +7597,7 @@
       "properties": {
         "id": "3-133",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7645,7 +7645,7 @@
       "properties": {
         "id": "3-134",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7689,7 +7689,7 @@
       "properties": {
         "id": "3-135",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7729,7 +7729,7 @@
       "properties": {
         "id": "3-136",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7781,7 +7781,7 @@
       "properties": {
         "id": "3-137",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7821,7 +7821,7 @@
       "properties": {
         "id": "3-138",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7873,7 +7873,7 @@
       "properties": {
         "id": "3-139",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -7953,7 +7953,7 @@
       "properties": {
         "id": "3-140",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8001,7 +8001,7 @@
       "properties": {
         "id": "3-141",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8057,7 +8057,7 @@
       "properties": {
         "id": "3-142",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8097,7 +8097,7 @@
       "properties": {
         "id": "3-143",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8145,7 +8145,7 @@
       "properties": {
         "id": "3-144",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8185,7 +8185,7 @@
       "properties": {
         "id": "3-145",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8225,7 +8225,7 @@
       "properties": {
         "id": "3-146",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8281,7 +8281,7 @@
       "properties": {
         "id": "3-147",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8333,7 +8333,7 @@
       "properties": {
         "id": "3-148",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8377,7 +8377,7 @@
       "properties": {
         "id": "3-149",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8417,7 +8417,7 @@
       "properties": {
         "id": "3-150",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8465,7 +8465,7 @@
       "properties": {
         "id": "3-151",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8513,7 +8513,7 @@
       "properties": {
         "id": "3-152",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8565,7 +8565,7 @@
       "properties": {
         "id": "3-153",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8609,7 +8609,7 @@
       "properties": {
         "id": "3-154",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8689,7 +8689,7 @@
       "properties": {
         "id": "3-155",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8729,7 +8729,7 @@
       "properties": {
         "id": "3-156",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8769,7 +8769,7 @@
       "properties": {
         "id": "3-157",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8817,7 +8817,7 @@
       "properties": {
         "id": "3-158",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8865,7 +8865,7 @@
       "properties": {
         "id": "3-159",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -8993,7 +8993,7 @@
       "properties": {
         "id": "3-160",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9149,7 +9149,7 @@
       "properties": {
         "id": "3-161",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9189,7 +9189,7 @@
       "properties": {
         "id": "3-162",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9465,7 +9465,7 @@
       "properties": {
         "id": "3-163",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9505,7 +9505,7 @@
       "properties": {
         "id": "3-164",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9553,7 +9553,7 @@
       "properties": {
         "id": "3-165",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9657,7 +9657,7 @@
       "properties": {
         "id": "3-166",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9697,7 +9697,7 @@
       "properties": {
         "id": "3-167",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -9737,7 +9737,7 @@
       "properties": {
         "id": "3-168",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10001,7 +10001,7 @@
       "properties": {
         "id": "3-169",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10057,7 +10057,7 @@
       "properties": {
         "id": "3-170",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10105,7 +10105,7 @@
       "properties": {
         "id": "3-171",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10145,7 +10145,7 @@
       "properties": {
         "id": "3-172",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10209,7 +10209,7 @@
       "properties": {
         "id": "3-173",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10281,7 +10281,7 @@
       "properties": {
         "id": "3-174",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10345,7 +10345,7 @@
       "properties": {
         "id": "3-175",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10385,7 +10385,7 @@
       "properties": {
         "id": "3-176",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10425,7 +10425,7 @@
       "properties": {
         "id": "3-177",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10465,7 +10465,7 @@
       "properties": {
         "id": "3-178",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10505,7 +10505,7 @@
       "properties": {
         "id": "3-179",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10545,7 +10545,7 @@
       "properties": {
         "id": "3-180",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10609,7 +10609,7 @@
       "properties": {
         "id": "3-181",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10649,7 +10649,7 @@
       "properties": {
         "id": "3-182",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10689,7 +10689,7 @@
       "properties": {
         "id": "3-183",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10753,7 +10753,7 @@
       "properties": {
         "id": "3-184",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10801,7 +10801,7 @@
       "properties": {
         "id": "3-185",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10937,7 +10937,7 @@
       "properties": {
         "id": "3-186",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -10993,7 +10993,7 @@
       "properties": {
         "id": "3-187",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11033,7 +11033,7 @@
       "properties": {
         "id": "3-188",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11097,7 +11097,7 @@
       "properties": {
         "id": "3-189",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11145,7 +11145,7 @@
       "properties": {
         "id": "3-190",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11193,7 +11193,7 @@
       "properties": {
         "id": "3-191",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11269,7 +11269,7 @@
       "properties": {
         "id": "3-192",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11325,7 +11325,7 @@
       "properties": {
         "id": "3-193",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11365,7 +11365,7 @@
       "properties": {
         "id": "3-194",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11409,7 +11409,7 @@
       "properties": {
         "id": "3-195",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11485,7 +11485,7 @@
       "properties": {
         "id": "3-196",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11557,7 +11557,7 @@
       "properties": {
         "id": "3-197",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11709,7 +11709,7 @@
       "properties": {
         "id": "3-198",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11769,7 +11769,7 @@
       "properties": {
         "id": "3-199",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11817,7 +11817,7 @@
       "properties": {
         "id": "3-200",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11865,7 +11865,7 @@
       "properties": {
         "id": "3-201",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11917,7 +11917,7 @@
       "properties": {
         "id": "3-202",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -11961,7 +11961,7 @@
       "properties": {
         "id": "3-203",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12017,7 +12017,7 @@
       "properties": {
         "id": "3-204",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12073,7 +12073,7 @@
       "properties": {
         "id": "3-205",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12149,7 +12149,7 @@
       "properties": {
         "id": "3-206",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12201,7 +12201,7 @@
       "properties": {
         "id": "3-207",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12337,7 +12337,7 @@
       "properties": {
         "id": "3-208",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12385,7 +12385,7 @@
       "properties": {
         "id": "3-209",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12433,7 +12433,7 @@
       "properties": {
         "id": "3-210",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12481,7 +12481,7 @@
       "properties": {
         "id": "3-211",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12597,7 +12597,7 @@
       "properties": {
         "id": "3-212",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12649,7 +12649,7 @@
       "properties": {
         "id": "3-213",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12789,7 +12789,7 @@
       "properties": {
         "id": "3-214",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12837,7 +12837,7 @@
       "properties": {
         "id": "3-215",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12877,7 +12877,7 @@
       "properties": {
         "id": "3-216",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -12953,7 +12953,7 @@
       "properties": {
         "id": "3-217",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13033,7 +13033,7 @@
       "properties": {
         "id": "3-218",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13201,7 +13201,7 @@
       "properties": {
         "id": "3-219",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13269,7 +13269,7 @@
       "properties": {
         "id": "3-220",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13341,7 +13341,7 @@
       "properties": {
         "id": "3-221",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13405,7 +13405,7 @@
       "properties": {
         "id": "3-222",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13453,7 +13453,7 @@
       "properties": {
         "id": "3-223",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13497,7 +13497,7 @@
       "properties": {
         "id": "3-224",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13541,7 +13541,7 @@
       "properties": {
         "id": "3-225",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13585,7 +13585,7 @@
       "properties": {
         "id": "3-226",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13657,7 +13657,7 @@
       "properties": {
         "id": "3-227",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13713,7 +13713,7 @@
       "properties": {
         "id": "3-228",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13753,7 +13753,7 @@
       "properties": {
         "id": "3-229",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -13973,7 +13973,7 @@
       "properties": {
         "id": "3-230",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14085,7 +14085,7 @@
       "properties": {
         "id": "3-231",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14133,7 +14133,7 @@
       "properties": {
         "id": "3-232",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14173,7 +14173,7 @@
       "properties": {
         "id": "3-233",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14229,7 +14229,7 @@
       "properties": {
         "id": "3-234",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14269,7 +14269,7 @@
       "properties": {
         "id": "3-235",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14317,7 +14317,7 @@
       "properties": {
         "id": "3-236",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14377,7 +14377,7 @@
       "properties": {
         "id": "3-237",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14425,7 +14425,7 @@
       "properties": {
         "id": "3-238",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14477,7 +14477,7 @@
       "properties": {
         "id": "3-239",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14521,7 +14521,7 @@
       "properties": {
         "id": "3-240",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14657,7 +14657,7 @@
       "properties": {
         "id": "3-241",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14705,7 +14705,7 @@
       "properties": {
         "id": "3-242",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14753,7 +14753,7 @@
       "properties": {
         "id": "3-243",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14813,7 +14813,7 @@
       "properties": {
         "id": "3-244",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14873,7 +14873,7 @@
       "properties": {
         "id": "3-245",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14921,7 +14921,7 @@
       "properties": {
         "id": "3-246",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -14981,7 +14981,7 @@
       "properties": {
         "id": "3-247",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15037,7 +15037,7 @@
       "properties": {
         "id": "3-248",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15101,7 +15101,7 @@
       "properties": {
         "id": "3-249",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15233,7 +15233,7 @@
       "properties": {
         "id": "3-250",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15301,7 +15301,7 @@
       "properties": {
         "id": "3-251",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15377,7 +15377,7 @@
       "properties": {
         "id": "3-252",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15417,7 +15417,7 @@
       "properties": {
         "id": "3-253",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15465,7 +15465,7 @@
       "properties": {
         "id": "3-254",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15513,7 +15513,7 @@
       "properties": {
         "id": "3-255",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15557,7 +15557,7 @@
       "properties": {
         "id": "3-256",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15617,7 +15617,7 @@
       "properties": {
         "id": "3-257",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15665,7 +15665,7 @@
       "properties": {
         "id": "3-258",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15721,7 +15721,7 @@
       "properties": {
         "id": "3-259",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15761,7 +15761,7 @@
       "properties": {
         "id": "3-260",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15837,7 +15837,7 @@
       "properties": {
         "id": "3-261",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
@@ -15925,7 +15925,7 @@
       "properties": {
         "id": "3-262",
         "color": "green",
-        "height": "9",
+        "height": 9,
         "base_height": 6
       },
       "geometry": {
