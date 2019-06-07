@@ -12,7 +12,7 @@
       "type": "Feature",
       "properties": {
         "id": "1-01",
-        "color": "red",
+        "fill-color": "red",
         "height": 3,
         "base_height": 0
       },
